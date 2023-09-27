@@ -1,4 +1,4 @@
-# Tinker_insert_update
+# Tinker_insert_update_users_eluqennt by Laravel
 # Tinker_insert_update_users
 # create user by elequant model 
 #
